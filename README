@@ -1,0 +1,21 @@
+chrome-find-anchors
+===================
+
+chrome-find-anchors is a Chromium extension that helps finding anchors
+in the current page.
+
+Feature
+-------
+
+* finds all of the anchors ('a' tags with 'name' attribute and all tags
+  with 'id' attribute), and displays markers.
+* does not break the layout.
+* toggleable by the browser action button.
+
+Copyright
+---------
+
+Copyright (c) 2016 Kazuki Yamaguchi <k@rhe.jp>
+
+chrome-find-anchors is free software; you can redistribute it and/or modify it
+under the terms of the MIT license. See COPYING for details.
